@@ -31,6 +31,6 @@ https://sleepy-journey-40253.herokuapp.com/
 
 ![Screenshot 02](screenshots/YelpCamp-screenshot02.png "Home Page")
 
-![Screenshot 03](screenshots/YelpCamp-screenshot03.png "Create A New Campground Page")
+![Screenshot 03](screenshots/YelpCamp-screenshot03.png "Login Page")
 
-![Screenshot 04](screenshots/YelpCamp-screenshot04.png "Login Page")
+![Screenshot 04](screenshots/YelpCamp-screenshot04.png "Create A New Campground Page")
